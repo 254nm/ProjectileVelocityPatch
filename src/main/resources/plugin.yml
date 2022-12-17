@@ -1,0 +1,5 @@
+name: ProjectileVelocityPatch
+version: '${project.version}'
+main: me.txmc.projectilevelocitypatch.ProjectileVelocityPatch
+authors: [ 254n_m ]
+description: Patch the projectile velocity exploit
